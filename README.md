@@ -52,8 +52,8 @@ The focus was not just on getting valid files to work, but also on handling malf
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/ahmed20455/geospatial-file-measurement-api>
-cd <geospatial-file-measurement-api>
+git clone https://github.com/ahmed20455/geospatial-file-measurement-api
+cd geospatial-file-measurement-api
 ```
 
 
