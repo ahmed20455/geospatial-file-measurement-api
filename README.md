@@ -12,6 +12,14 @@ One important detail in geospatial processing is that coordinates are not always
 
 The focus was not just on getting valid files to work, but also on handling malformed input, incomplete Shapefiles, unsupported geometries, and unsafe ZIP archives without bringing down the application.
 
+## Demo
+
+A short walkthrough of the API, demonstrating file uploads, feature extraction, measurement results, and input validation.
+
+**[Watch the API Demo](https://youtu.be/4IkyC55z0vg)**
+
+The demo uses sample geospatial data to demonstrate the main API workflows.
+
 ## Features
 
 * Upload KML files and ZIP archives containing a Shapefile.
