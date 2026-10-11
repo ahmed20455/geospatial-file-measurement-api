@@ -52,11 +52,10 @@ The focus was not just on getting valid files to work, but also on handling malf
 ### 1. Clone the repository
 
 ```bash
-git clone <your-public-repository-url>
-cd <your-repository-folder>
+git clone <https://github.com/ahmed20455/geospatial-file-measurement-api>
+cd <geospatial-file-measurement-api>
 ```
 
-Replace the placeholders with your actual GitHub repository URL and folder name.
 
 ### 2. Install dependencies
 
